@@ -48,5 +48,4 @@
         <activity android:name=".MapsActivity" />
         <activity android:name=".LoginActivity"></activity>
     </application>
-
 </manifest>
